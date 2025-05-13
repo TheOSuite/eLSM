@@ -1,4 +1,4 @@
-# Enhanced Local Security Monitor
+# Offensive Local Security Monitor
 
 A cross-platform GUI-based security monitoring tool for Windows, Linux, and macOS, built with Python.  
 It provides real-time monitoring and alerting for file integrity, network threats, suspicious processes, log events, and system/network anomalies.  
@@ -70,7 +70,7 @@ pip install scapy psutil matplotlib requests
 
 1. **Run the script:**
    ```bash
-   python eLSM.py
+   python oLSM.py
    ```
 
 2. **Configure Monitoring:**  
